@@ -1,0 +1,402 @@
+
+  *{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  }
+  body{
+  font-family: Helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333;
+  text-align: center;
+  }
+  .ancho{
+    height: 900px;
+    width: 1797px;
+  }
+  .ancho_form{
+      height: 600px;
+      width: 1797px;
+  }
+.principal{
+height: 900px;
+width: 1797px;
+background-image: url(/Imagen_fondo.jpg);
+background-size: cover;
+display: flex;
+}
+.about_me{
+height: 766px;
+width: 1797px;
+}
+
+.opciones_menu {
+  height: 766px;
+width: 1797px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  text-align: right;
+size: 30px;
+}
+.opciones_menu  a {
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 20px;
+  color: rgb(241, 241, 241);
+  margin-right: 10px;
+  padding: 20px 10px;
+}
+#negritas{
+  font-weight: bold;
+}
+.name{
+padding: 300px;
+text-align: center;
+  height: 766px;
+width: 1797px;
+font-size: 30px;
+display: inline-block;
+}
+#naranja{
+  font-size: 60px ;
+  color: #1F3D93;
+}
+#second_letters{
+font-size: 35px;
+}
+#second_orange{
+font-size: 35px;
+color: #1F3D93;
+}
+.about_me{
+text-align: left;
+padding: 80px 250px 50px;
+display: inline-block;
+}
+.linea_azul{
+width: 5px;
+height:65px;
+background-color: #1F3D93;
+display: inline-block;
+
+}
+.about_me1{
+display: inline-block;
+width: 250px;
+height: 150px;
+padding: 10px;
+text-decoration: none;
+}
+.container{
+ padding: 10px 10px;
+ text-decoration: none;
+}
+.image_container{
+  width: 1300px; 
+  height: 500px;
+}
+
+.image_container img{
+ float: left;
+  width: 450px;
+  height: 500px;
+  border-radius: 50px;
+  }
+  .who_im{
+    float: right;
+   width: 700px;
+   margin-right: 100px;
+  }
+  .who_im h1{
+color: black;
+    line-height: 50px;
+  }
+.letras_azules{
+color: #1F3D93;
+}
+.data_me{
+width: 700px;
+height: 200px;
+float: right;
+margin-right: 100px;
+}
+.data_right{
+float: left;
+margin-left: 50px;
+}
+.data_left{
+  float: right;
+  margin-right: 50px;
+}
+.negritas{
+ font-weight: bold;
+ color: black;
+}
+.btn{
+  width: 250px;
+  height: 30px;
+  margin-left: 50px;
+}
+#btn_pdf{
+  text-decoration: none;
+  color: black;
+  border-radius: 10px;
+  text-align: center;
+  width: 200px;
+  background-color: #68849A;
+  font-size: 20px;
+  border: none;
+}
+#pdf_logo{
+  width: 50px;
+  height: 50px;
+}
+.my_services{
+ border: 1px red solid;
+}
+
+.otro{
+  padding: 15px;
+  width: 1300px;
+  text-align: center;
+}
+
+.otro1{
+background-color: white;
+padding: 15px;
+width: 300px;
+text-align: left;
+display: inline-block;
+margin-right: 40px;
+border-bottom: 3px #68849A solid;
+
+}
+.otro2{
+background-color: white;
+padding: 15px;
+width: 300px;
+text-align: left;
+display: inline-block;
+margin-right: 40px;
+border-bottom: 3px #68849A solid;
+
+}
+.otro3{
+background-color: white;
+padding: 15px;
+width: 300px;
+text-align: left;
+display: inline-block;
+border-bottom: 3px #68849A solid;
+}
+#html_img{
+  margin-left: 60px;
+  width: 100px;
+  height: 100px;
+}
+#electronic_img{
+  margin-left: 70px;
+  width: 100px;
+  height: 100px;
+}
+#astronaut_img{
+  margin-left: 50px;
+  width: 100px;
+  height: 100px;
+}
+.black_line{
+height: 200px;
+width: 1797px;
+background-color: #F2B56B;
+}
+.lets{
+  float: left;
+  width: 400px;
+  color: white;
+  margin-left: 400px;
+  text-align: left;
+  margin-top: 50px;
+}
+.lets h2{
+  font-size: 30px;
+}
+.hire_me{
+float: right;
+width: 400px;
+margin-right: 400px;
+margin-top: 50px;
+}
+#btn_hire{
+  text-decoration: none;
+  color: black;
+  border-radius: 20px;
+  text-align: center;
+  width: 150px;
+  height: 50px;
+  background-color: #68849A;
+  font-size: 20px;
+  border: none;
+}
+.otro_new{
+  padding: 15px;
+  width: 1300px;
+  font-weight: bold;
+  color: #1F3D93;
+  text-align: center;
+}
+.Web1{
+  background-image: url(/logo.png);
+  width: 200px;
+  height: 150px;
+  padding: 15px;
+  background-size: cover;
+  display: inline-block;
+  margin-right: 10px;
+  
+  }
+  .Web2{
+    background-image: url(/Logo_vacunacio.png);
+    width: 200px;
+    height: 150px;
+    padding: 15px;
+    background-size: cover;
+    display: inline-block;
+    margin-right: 10px;
+    }
+  .Web3{
+    background-image: url(/Discord.png);
+    width: 250px;
+    height: 150px;
+    padding: 15px;
+    background-size: cover;
+    display: inline-block;
+    margin-right: 40px;
+  }
+
+  .Elec1{
+    background-image: url(/Arduino_Leonardo.jpg);
+    width: 200px;
+    height: 150px;
+    padding: 15px;
+    background-size: cover;
+    display: inline-block;
+    margin-right: 10px;
+    
+    }
+    .Elec2{
+      background-image: url(/BCD_7\ Segmentos.jpg);
+      width: 200px;
+      height: 150px;
+      padding: 15px;
+      background-size: cover;
+      display: inline-block;
+      margin-right: 10px;
+      }
+    .Elec3{
+      background-image: url(/Electronica_Digital.jpg);
+      width: 250px;
+      height: 150px;
+      padding: 15px;
+      background-size: cover;
+      display: inline-block;
+      margin-right: 40px;
+    }
+
+    .astro1{
+      background-image: url(/Foto_SOAPricipal.jpg);
+      width: 200px;
+      height: 150px;
+      padding: 15px;
+      background-size: cover;
+      display: inline-block;
+      margin-right: 10px;
+      
+      }
+      .astro2{
+        background-image: url(/Imagen_telescopio.jpg);
+        width: 200px;
+        height: 150px;
+        padding: 15px;
+        background-size: cover;
+        display: inline-block;
+        margin-right: 10px;
+        }
+      .astro3{
+        background-image: url(/Imagen_tablet.jpg);
+        width: 250px;
+        height: 150px;
+        padding: 15px;
+        background-size: cover;
+        display: inline-block;
+        margin-right: 40px;
+      }
+    .form{
+       background-color: #d5e8f6;
+display: inline-block;
+
+    }
+
+    .boxes{
+      text-align: center;
+      margin-left: 10px;
+      }
+      .squares{
+      width: 600px;
+      height: 40px;
+      text-align: left;
+      padding: 10px 10px;
+      margin: 20px;
+      border: 2px #CCCCCC solid;
+      }
+      .amplitud{
+        text-align: left;
+        width: 1250px;
+        height: 150px;
+        padding: 10px 10px;
+        margin: 20px;
+        border: 2px #CCCCCC solid;
+        color: #B6B6B6;
+      size: 50px;
+      }
+.Submit{
+text-align: center;
+      }
+.form_down{
+width: 1797px;
+height: 200px;
+background-color: #F2B56B;
+text-align: center;
+      }
+
+      .down1{
+        width: 130px;
+        height: 50px;
+        float: left;
+        margin-top: 50px;
+        margin-left: 450px;
+        text-align:  center;
+      }
+      .form_down img{
+        width: 50px;
+        height: 50px;
+      }
+      .down2{
+        width: 130px;
+        height: 50px;
+        float: right;
+        margin-top: 50px;
+        margin-right: 450px;
+        text-align:  center;
+      }
+.social{
+width: 1797px;
+background-color: #dfddde;
+display: inline-block;
+}
+.social a{
+  width: 50px;
+  height: 50px;
+display: inline-block;
+margin: 20px;
+}
