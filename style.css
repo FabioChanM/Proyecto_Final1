@@ -22,7 +22,7 @@
 .principal{
 height: 900px;
 width: 1797px;
-background-image: url(/Imagen_fondo.jpg);
+background-image: url(Imagen_fondo.jpg);
 background-size: cover;
 display: flex;
 }
@@ -246,7 +246,7 @@ margin-top: 50px;
   text-align: center;
 }
 .Web1{
-  background-image: url(/logo.png);
+  background-image: url(logo.png);
   width: 200px;
   height: 150px;
   padding: 15px;
@@ -256,7 +256,7 @@ margin-top: 50px;
   
   }
   .Web2{
-    background-image: url(/Logo_vacunacio.png);
+    background-image: url(Logo_vacunacio.png);
     width: 200px;
     height: 150px;
     padding: 15px;
@@ -265,7 +265,7 @@ margin-top: 50px;
     margin-right: 10px;
     }
   .Web3{
-    background-image: url(/Discord.png);
+    background-image: url(Discord.png);
     width: 250px;
     height: 150px;
     padding: 15px;
@@ -275,7 +275,7 @@ margin-top: 50px;
   }
 
   .Elec1{
-    background-image: url(/Arduino_Leonardo.jpg);
+    background-image: url(Arduino_Leonardo.jpg);
     width: 200px;
     height: 150px;
     padding: 15px;
@@ -285,7 +285,7 @@ margin-top: 50px;
     
     }
     .Elec2{
-      background-image: url(/BCD_7\ Segmentos.jpg);
+      background-image: url(BCD_7\ Segmentos.jpg);
       width: 200px;
       height: 150px;
       padding: 15px;
@@ -294,7 +294,7 @@ margin-top: 50px;
       margin-right: 10px;
       }
     .Elec3{
-      background-image: url(/Electronica_Digital.jpg);
+      background-image: url(Electronica_Digital.jpg);
       width: 250px;
       height: 150px;
       padding: 15px;
@@ -304,7 +304,7 @@ margin-top: 50px;
     }
 
     .astro1{
-      background-image: url(/Foto_SOAPricipal.jpg);
+      background-image: url(Foto_SOAPricipal.jpg);
       width: 200px;
       height: 150px;
       padding: 15px;
@@ -314,7 +314,7 @@ margin-top: 50px;
       
       }
       .astro2{
-        background-image: url(/Imagen_telescopio.jpg);
+        background-image: url(Imagen_telescopio.jpg);
         width: 200px;
         height: 150px;
         padding: 15px;
@@ -323,7 +323,7 @@ margin-top: 50px;
         margin-right: 10px;
         }
       .astro3{
-        background-image: url(/Imagen_tablet.jpg);
+        background-image: url(Imagen_tablet.jpg);
         width: 250px;
         height: 150px;
         padding: 15px;
